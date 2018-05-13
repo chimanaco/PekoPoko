@@ -7,7 +7,7 @@
 *.tif
 Backup/
 tox/.jpg
-PocoPoco**.toe
+*.*.toe
 
 toefortox/**/*.*.toe
 tox/visuals/bin/
