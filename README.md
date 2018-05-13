@@ -3,11 +3,14 @@
 PekoPoko is TouchDesigner playground which I usually use as a visual generator. I customize this with more effects and visuals when I do performance. Pretty much in development.
 
 ## Getting Started
-Open `PekoPoko.toe`. You might need for seconds to load all .tox. `F1` key will take you to Perfome Mode.
+Open `PekoPoko.toe`. You might have to wait for seconds to load all .tox.
+`F1` key will take you to Perfome Mode.
 
 ## Features
 * Simple visual mixer
-* Recording a movie
+* Movie recording and exporting 
+* Audio Reactive
+* OSC Reactiveand
 
 ## Todo
 * Add mask layers.
