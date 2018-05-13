@@ -10,7 +10,8 @@ Open `PekoPoko.toe`. You might have to wait for seconds to load all .tox.
 * Simple visual mixer
 * Movie recording and exporting 
 * Audio Reactive
-* OSC Reactiveand
+* OSC Reactive
+* Simple KeyStone
 
 ## Todo
 * Add mask layers.
