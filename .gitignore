@@ -1,0 +1,13 @@
+#########################
+
+# TouchDesigner
+
+.jpg
+*.mov
+*.tif
+Backup/
+tox/.jpg
+*.*.toe
+
+toefortox/**/*.*.toe
+tox/visuals/bin/
